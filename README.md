@@ -11,9 +11,7 @@ Objectives
 
 ## Data Cleaning Process
 The following data cleaning tasks were performed:
-1. Duplicate Check:  
-Inspected the dataset for duplicate records. 
-No duplicate entries were found. 
+1. Duplicate Check: Inspected the dataset for duplicate records. No duplicate entries were found. 
 2. Date Formatting: 
 Converted the Date column from Text to Short Date format to enable accurate date-based analysis. 
 3. Currency Formatting: 
